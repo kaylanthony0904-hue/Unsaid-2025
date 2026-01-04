@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Unsaid: 2025",
+  "description": "An anonymous year-end digital folio for things left unsaid. A project by Ang Bakas.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
